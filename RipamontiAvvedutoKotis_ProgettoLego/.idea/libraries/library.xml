@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="library">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/data/lib/Wbs/javax.servlet-api-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/data/lib/Wbs/jetty-http-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/data/lib/Wbs/jetty-io-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/data/lib/Wbs/jetty-security-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/data/lib/Wbs/jetty-server-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/data/lib/Wbs/jetty-servlet-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/data/lib/Wbs/jetty-util-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/data/lib/Wbs/slf4j-api-1.7.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/data/lib/Wbs/slf4j-simple-1.7.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/data/lib/Wbs/websocket-api-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/data/lib/Wbs/websocket-client-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/data/lib/Wbs/websocket-common-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/data/lib/Wbs/websocket-server-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/data/lib/Wbs/websocket-servlet-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/data/lib/Wbs/webSockets.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
